@@ -1,0 +1,1 @@
+/usr/bin/c++        -o create_demo -rdynamic -lboost_system -lboost_thread -lboost_chrono -lboost_date_time -lboost_atomic libcreate.a -lpthread -lboost_system -lboost_thread -lboost_chrono -lboost_date_time -lboost_atomic 
